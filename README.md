@@ -43,3 +43,5 @@ Pull requestler kabul edilir.Büyük değişiklikler için, lütfen önce neyi d
 
 ## Licence 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+[İbrahim Yahya Aydınlı](https://app.patika.dev/yahyalevontin)
